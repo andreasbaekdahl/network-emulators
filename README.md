@@ -6,7 +6,7 @@ This code repository contains the network emulators developed in the video serie
 
 If you are a network engineer looking for basic Python training, this training for you!
 
-Tought by Andreas Baekdahl from [ccie-automation.com](https://ccie-automation.com)
+Taught by Andreas Baekdahl from [ccie-automation.com](https://ccie-automation.com)
 
 We will build simple network component emulators in Python, to learn about all the fundamental features such as strings, lists, dictionaries, loops, functions, classes and a lot of other important concepts.
 
