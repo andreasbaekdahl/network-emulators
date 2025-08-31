@@ -2,7 +2,7 @@
 
 This code repository contains the network emulators developed in the video series.
 
-[YouTube playlist]([https://www.youtube.com/playlist?list=PLSXN1KTaM4dfxmuX5KskAUgBF2qaxc5NC)
+[YouTube playlist](https://www.youtube.com/playlist?list=PLSXN1KTaM4dfxmuX5KskAUgBF2qaxc5NC)
 
 If you are a network engineer looking for basic Python training, this training for you!
 
